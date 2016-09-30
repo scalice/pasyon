@@ -1,0 +1,16 @@
+[0] Config.pm:321> INFO - This is Biber 1.9
+[1] Config.pm:324> INFO - Logfile is 'Metafiles/JPSThesis.blg'
+[82] biber:277> INFO - === Thu Sep 29, 2016, 17:22:33
+[83] Biber.pm:334> INFO - Reading 'Metafiles/JPSThesis.bcf'
+[305] Biber.pm:636> INFO - Found 92 citekeys in bib section 0
+[348] Biber.pm:3052> INFO - Processing section 0
+[405] Biber.pm:3190> INFO - Looking for bibtex format file './Data/JPSThesis.bib' for section 0
+[422] bibtex.pm:979> INFO - Decoding LaTeX character macros into UTF-8
+[440] bibtex.pm:853> INFO - Found BibTeX data source './Data/JPSThesis.bib'
+[3279] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[3279] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[3280] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'level = 4' with 'level = 2'
+[3280] Biber.pm:2929> INFO - Sorting list 'cms' of type 'entry' with scheme 'cms' and locale 'en-US'
+[3280] Biber.pm:2933> INFO - No sort tailoring available for locale 'en-US'
+[4250] bbl.pm:517> INFO - Writing 'Metafiles/JPSThesis.bbl' with encoding 'UTF-8'
+[4274] bbl.pm:606> INFO - Output to Metafiles/JPSThesis.bbl

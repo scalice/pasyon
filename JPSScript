@@ -1,0 +1,22 @@
+#!/bin/bash
+ 
+# Create directory if it doesn't exist
+if [ ! -d "Metafiles" ]; then
+  mkdir Metafiles 
+  mkdir Metafiles/Chapters
+  mkdir Metafiles/Data
+fi
+ 
+# Run pdflatex and biber with metafiles as in-/output directories
+pdflatex -output-directory=Metafiles JPSThesis
+biber --input-directory=Metafiles --output-directory=Metafiles JPSThesis
+pdflatex -output-directory=Metafiles JPSThesis
+biber --input-directory=Metafiles --output-directory=Metafiles JPSThesis
+pdflatex -output-directory=Metafiles JPSThesis
+pdflatex -output-directory=Metafiles JPSThesis
+
+ 
+# Create a softlink to the output PDF
+if [ ! -h "JPSThesis.pdf" ]; then  
+	ln -s Metafiles/JPSThesis.pdf JPSThesis.pdf
+fi

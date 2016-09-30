@@ -1,0 +1,2010 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.4 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{cms}{cms}
+    \entry{AglipayYLabayan1925}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ef132cca62d3b5d88fbf5a09d1d002a2}{{Aglipay\bibnamedelimb Y\bibnamedelimb Labayan}}{A\bibinitperiod}{Gregorio}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ef132cca62d3b5d88fbf5a09d1d002a2}{{Aglipay\bibnamedelimb Y\bibnamedelimb Labayan}}{A\bibinitperiod}{Gregorio}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=6805e7ff8121839f1113693107870ea6}{Evangelista}{E\bibinitperiod}{G.\bibnamedelimi Juan\bibnamedelima N.}{G\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \strng{namehash}{ef132cca62d3b5d88fbf5a09d1d002a2}
+      \strng{fullhash}{ef132cca62d3b5d88fbf5a09d1d002a2}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{{Pagsisiyam sa Virgen sa Balintawak (Ang Virgen sa Balintawak ay ang Inang Bayan)}}
+      \field{title}{{Pagsisiyam sa Virgen sa Balintawak (Ang Virgen sa Balintawak ay ang Inang Bayan)}}
+      \field{year}{1925}
+    \endentry
+    \entry{Agoncillo1960}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c7cad41f571e57abfa6e5b56569e4c0f}{Agoncillo}{A\bibinitperiod}{Teodoro\bibnamedelima A.}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c7cad41f571e57abfa6e5b56569e4c0f}{Agoncillo}{A\bibinitperiod}{Teodoro\bibnamedelima A.}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {University of the Philippines Press}%
+      }
+      \strng{namehash}{c7cad41f571e57abfa6e5b56569e4c0f}
+      \strng{fullhash}{c7cad41f571e57abfa6e5b56569e4c0f}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{{Malolos: Crisis of the Republic}}
+      \field{title}{{Malolos: Crisis of the Republic}}
+      \field{year}{1960}
+    \endentry
+    \entry{Agoncillo1956}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c7cad41f571e57abfa6e5b56569e4c0f}{Agoncillo}{A\bibinitperiod}{Teodoro\bibnamedelima A.}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c7cad41f571e57abfa6e5b56569e4c0f}{Agoncillo}{A\bibinitperiod}{Teodoro\bibnamedelima A.}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {University of the Philippines}%
+      }
+      \strng{namehash}{c7cad41f571e57abfa6e5b56569e4c0f}
+      \strng{fullhash}{c7cad41f571e57abfa6e5b56569e4c0f}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{{The Revolt of the Masses: The Story of Bonifacio and the Katipunan}}
+      \field{title}{{The Revolt of the Masses: The Story of Bonifacio and the Katipunan}}
+      \field{year}{1956}
+    \endentry
+    \entry{Alaras1988}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=37a63574f21107078a4f4961a7d80ddd}{Alaras}{A\bibinitperiod}{Consolacion\bibnamedelima Rustia}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=37a63574f21107078a4f4961a7d80ddd}{Alaras}{A\bibinitperiod}{Consolacion\bibnamedelima Rustia}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Bahay-Saliksikan ng Kasaysayan}%
+      }
+      \strng{namehash}{37a63574f21107078a4f4961a7d80ddd}
+      \strng{fullhash}{37a63574f21107078a4f4961a7d80ddd}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{{Pamathalaan: ang pagbubukas sa tipan ng Mahal na Ina}}
+      \field{title}{{Pamathalaan: ang pagbubukas sa tipan ng Mahal na Ina}}
+      \field{year}{1988}
+    \endentry
+    \entry{Alcantara2008}{misc}{}
+      \name{labelname}{1}{}{%
+        {{hash=f8b9dc97cd67323d0e412018640426ab}{Alcantara}{A\bibinitperiod}{Teresita\bibnamedelima A.}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=f8b9dc97cd67323d0e412018640426ab}{Alcantara}{A\bibinitperiod}{Teresita\bibnamedelima A.}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f8b9dc97cd67323d0e412018640426ab}
+      \strng{fullhash}{f8b9dc97cd67323d0e412018640426ab}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{{The Spanish {America}n Lexicons in Filipino}}
+      \field{day}{15-17}
+      \field{month}{12}
+      \field{note}{paper presented at Philippine Latin American Studies Conference, Pamantasan Lungsod ng Maynila}
+      \field{title}{{The Spanish {America}n Lexicons in Filipino}}
+      \field{year}{2008}
+    \endentry
+    \entry{Alvarez1992}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=821406c255236b707da7596ff7310547}{Alvarez}{A\bibinitperiod}{Santiago\bibnamedelima V.}{S\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=821406c255236b707da7596ff7310547}{Alvarez}{A\bibinitperiod}{Santiago\bibnamedelima V.}{S\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=5a6bfd28ed22c27da33f68b922421903}{Malay}{M\bibinitperiod}{Paula\bibnamedelimb Carolina\bibnamedelima S.}{P\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Ateneo de Manila University Press}%
+      }
+      \strng{namehash}{821406c255236b707da7596ff7310547}
+      \strng{fullhash}{821406c255236b707da7596ff7310547}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{{The Katipunan and the Revolution: Memoirs of a General, with the original Tagalog text}}
+      \field{title}{{The Katipunan and the Revolution: Memoirs of a General, with the original Tagalog text}}
+      \field{year}{1992}
+    \endentry
+    \entry{Alzona1964}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=067fc09b4a6a20eff1bde7a8e38f8946}{Alzona}{A\bibinitperiod}{Encarnacion}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=067fc09b4a6a20eff1bde7a8e38f8946}{Alzona}{A\bibinitperiod}{Encarnacion}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Makati}%
+      }
+      \list{publisher}{1}{%
+        {Carmelo \& Bauermann, Inc.}%
+      }
+      \strng{namehash}{067fc09b4a6a20eff1bde7a8e38f8946}
+      \strng{fullhash}{067fc09b4a6a20eff1bde7a8e38f8946}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{{Julio Nakpil and the Philippine revolution}}
+      \field{title}{{Julio Nakpil and the Philippine revolution}}
+      \field{year}{1964}
+    \endentry
+    \entry{Anderson1998}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ee56201af086863dfc709425e3574ec7}{Anderson}{A\bibinitperiod}{Benedict\bibnamedelimb R.\bibnamedelimi O'G.}{B\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ee56201af086863dfc709425e3574ec7}{Anderson}{A\bibinitperiod}{Benedict\bibnamedelimb R.\bibnamedelimi O'G.}{B\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Verso}%
+      }
+      \strng{namehash}{ee56201af086863dfc709425e3574ec7}
+      \strng{fullhash}{ee56201af086863dfc709425e3574ec7}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{{The Spectre of Comparisons: Nationalism, Southeast {Asia}, and the World}}
+      \field{title}{{The Spectre of Comparisons: Nationalism, Southeast {Asia}, and the World}}
+      \field{year}{1998}
+    \endentry
+    \entry{Calaguim1923}{book}{}
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {J. Martinez}%
+      }
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{{Ang Calaguim-laguim na buhay na nasapit ni Samuel Beli-bet na sinumpa nang Dios at gumalagala magpahanga ngayon sa boong liniguidliguid ng mundo}}
+      \field{title}{{Ang Calaguim-laguim na buhay na nasapit ni Samuel Beli-bet na sinumpa nang Dios at gumalagala magpahanga ngayon sa boong liniguidliguid ng mundo}}
+      \field{year}{1923}
+    \endentry
+    \entry{Angeles1904}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=9e3ad6e17b45120ceac09535bf799cc3}{Angeles}{A\bibinitperiod}{Sixto}{S\bibinitperiod}{de\bibnamedelima los}{d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9e3ad6e17b45120ceac09535bf799cc3}{Angeles}{A\bibinitperiod}{Sixto}{S\bibinitperiod}{de\bibnamedelima los}{d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}}%
+      }
+      \list{location}{1}{%
+        {Washington}%
+      }
+      \list{publisher}{1}{%
+        {Government Printing Office}%
+      }
+      \strng{namehash}{9e3ad6e17b45120ceac09535bf799cc3}
+      \strng{fullhash}{9e3ad6e17b45120ceac09535bf799cc3}
+      \field{sortinit}{A}
+      \field{sortinithash}{c8a29dea43e9d2645817723335a4dbe8}
+      \field{labeltitle}{{Exhibit C: Sources of Manila's Water Supply}}
+      \field{booktitle}{Fourth Annual Report of the Philippine Commission, 1903}
+      \field{title}{{Exhibit C: Sources of Manila's Water Supply}}
+      \field{volume}{3}
+      \field{year}{1904}
+    \endentry
+    \entry{Barbour1924}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=615ee7a72c7b90643c9f945e78e2c41c}{Barbour}{B\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=615ee7a72c7b90643c9f945e78e2c41c}{Barbour}{B\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{615ee7a72c7b90643c9f945e78e2c41c}
+      \strng{fullhash}{615ee7a72c7b90643c9f945e78e2c41c}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{An historic crocodile skull}
+      \field{journaltitle}{Copeia}
+      \field{title}{An historic crocodile skull}
+      \field{volume}{126}
+      \field{year}{1924}
+      \field{pages}{16}
+    \endentry
+    \entry{Borromeo1973}{thesis}{}
+      \name{labelname}{1}{}{%
+        {{hash=7b98333d3e6cc8d4f0d781ac250cab69}{Borromeo}{B\bibinitperiod}{Soledad\bibnamedelima Masangkay}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7b98333d3e6cc8d4f0d781ac250cab69}{Borromeo}{B\bibinitperiod}{Soledad\bibnamedelima Masangkay}{S\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {UC Berkeley}%
+      }
+      \strng{namehash}{7b98333d3e6cc8d4f0d781ac250cab69}
+      \strng{fullhash}{7b98333d3e6cc8d4f0d781ac250cab69}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{{El Cadiz Filipino: Colonial Cavite, 1571-1896}}
+      \field{title}{{El Cadiz Filipino: Colonial Cavite, 1571-1896}}
+      \field{type}{phdthesis}
+      \field{year}{1973}
+    \endentry
+    \entry{Bowring1859}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=41f90f7f3a2db130f9feab99ef3a94e2}{Bowring}{B\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=41f90f7f3a2db130f9feab99ef3a94e2}{Bowring}{B\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Smith, Elder, \& Co.}%
+      }
+      \strng{namehash}{41f90f7f3a2db130f9feab99ef3a94e2}
+      \strng{fullhash}{41f90f7f3a2db130f9feab99ef3a94e2}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{{A Visit to the Philippine Islands}}
+      \field{title}{{A Visit to the Philippine Islands}}
+      \field{year}{1859}
+    \endentry
+    \entry{Bronson1977}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=129f2c395ef3011edde5789737268044}{Bronson}{B\bibinitperiod}{Bennet}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=129f2c395ef3011edde5789737268044}{Bronson}{B\bibinitperiod}{Bennet}{B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=a330c46385356269d19007dd874bc0f5}{Sutterer}{S\bibinitperiod}{Karl\bibnamedelima L.}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Ann Arbor}%
+      }
+      \list{publisher}{1}{%
+        {Center for South \protect{and} Southeast Asian Studies}%
+      }
+      \strng{namehash}{129f2c395ef3011edde5789737268044}
+      \strng{fullhash}{129f2c395ef3011edde5789737268044}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{{Exchange at the Upstream and Downstream Ends: Notes toward a Functional Model of the Coastal State in Southeast Asia}}
+      \field{booktitle}{Economic Exchange and Social Interaction in Southeast Asia: Perspectives from Prehistory, History, and Ethnography}
+      \field{title}{{Exchange at the Upstream and Downstream Ends: Notes toward a Functional Model of the Coastal State in Southeast Asia}}
+      \field{year}{1977}
+      \field{pages}{39\bibrangedash 52}
+    \endentry
+    \entry{Buhay1916}{book}{}
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {J. Martinez}%
+      }
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{{Buhay nang Dalauang Magcasintahan na si Diego Marcilla at ni Isabel de Segura sa Ciudad Nang Teruel}}
+      \field{title}{{Buhay nang Dalauang Magcasintahan na si Diego Marcilla at ni Isabel de Segura sa Ciudad Nang Teruel}}
+      \field{year}{1916}
+    \endentry
+    \entry{Burritt1902}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c3e4ce7b22fcace349cbe1e4566d6c8c}{Burritt}{B\bibinitperiod}{Charles\bibnamedelima H.}{C\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c3e4ce7b22fcace349cbe1e4566d6c8c}{Burritt}{B\bibinitperiod}{Charles\bibnamedelima H.}{C\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {Bureau of Public Printing}%
+      }
+      \strng{namehash}{c3e4ce7b22fcace349cbe1e4566d6c8c}
+      \strng{fullhash}{c3e4ce7b22fcace349cbe1e4566d6c8c}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{{Abstract of the Mining Laws in force in the Philippine Archipelago}}
+      \field{title}{{Abstract of the Mining Laws in force in the Philippine Archipelago}}
+      \field{year}{1902}
+    \endentry
+    \entry{Buzeta1850}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=aef2c5aeefbe1795762400f5e7848c08}{Buzeta}{B\bibinitperiod}{Manuel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=aef2c5aeefbe1795762400f5e7848c08}{Buzeta}{B\bibinitperiod}{Manuel}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Imprenta de D. Jose C de la Pena}%
+      }
+      \strng{namehash}{aef2c5aeefbe1795762400f5e7848c08}
+      \strng{fullhash}{aef2c5aeefbe1795762400f5e7848c08}
+      \field{sortinit}{B}
+      \field{sortinithash}{1a3a21dbed09540af12d49a0b14f4751}
+      \field{labeltitle}{{Diccionario Geografico-Estadistico-Historico de las Islas Filipinas}}
+      \field{title}{{Diccionario Geografico-Estadistico-Historico de las Islas Filipinas}}
+      \field{year}{1850}
+    \endentry
+    \entry{Canseco1999}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=026576c8ed6a97672287f18eadf437e9}{Canseco}{C\bibinitperiod}{Telesforo}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=026576c8ed6a97672287f18eadf437e9}{Canseco}{C\bibinitperiod}{Telesforo}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=314010756176ae2d6059bd1be5d69618}{Hernandez}{H\bibinitperiod}{Jose\bibnamedelimb Rhommel\bibnamedelima B.}{J\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Philippine Dominican Center of Institutional Studies}%
+      }
+      \strng{namehash}{026576c8ed6a97672287f18eadf437e9}
+      \strng{fullhash}{026576c8ed6a97672287f18eadf437e9}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{{Kasaysayan ng Paghihimagsik ng Mga Pilipino sa Cavite}}
+      \field{title}{{Kasaysayan ng Paghihimagsik ng Mga Pilipino sa Cavite}}
+      \field{year}{1999}
+    \endentry
+    \entry{Castro1985}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=f3141bab9c0d8282f7953dee74ab0617}{Castro}{C\bibinitperiod}{Jovito\bibnamedelima Ventura}{J\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=f3141bab9c0d8282f7953dee74ab0617}{Castro}{C\bibinitperiod}{Jovito\bibnamedelima Ventura}{J\bibinitperiod\bibinitdelim V\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {Nalandangan, Inc.}%
+      }
+      \strng{namehash}{f3141bab9c0d8282f7953dee74ab0617}
+      \strng{fullhash}{f3141bab9c0d8282f7953dee74ab0617}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{{Anthology of ASEAN Literatures: Philippine Metrical Romances}}
+      \field{title}{{Anthology of ASEAN Literatures: Philippine Metrical Romances}}
+      \field{year}{1985}
+    \endentry
+    \entry{Census1905}{book}{}
+      \list{location}{1}{%
+        {Washington}%
+      }
+      \list{publisher}{1}{%
+        {United States Bureau of the Census}%
+      }
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{{Census of the Philippine Islands taken under the direction of the Philippine Commission in the year 1903, in four volumes, volume 1: Geography, History, and Population}}
+      \field{title}{{Census of the Philippine Islands taken under the direction of the Philippine Commission in the year 1903, in four volumes, volume 1: Geography, History, and Population}}
+      \field{year}{1905}
+    \endentry
+    \entry{Conant1912}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=e395ab7d726bcedf00464688c6322479}{Conant}{C\bibinitperiod}{Carlos\bibnamedelima Everett}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e395ab7d726bcedf00464688c6322479}{Conant}{C\bibinitperiod}{Carlos\bibnamedelima Everett}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e395ab7d726bcedf00464688c6322479}
+      \strng{fullhash}{e395ab7d726bcedf00464688c6322479}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{{The Pepet Law in Philippine Languages}}
+      \field{journaltitle}{Anthropos: ephemeris internationalis ethnologica et linguistica}
+      \field{title}{{The Pepet Law in Philippine Languages}}
+      \field{volume}{7}
+      \field{year}{1912}
+      \field{pages}{920\bibrangedash 47}
+    \endentry
+    \entry{Corpuz1999}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=6b2c65f267a112d8f36293e2c85a4989}{Corpuz}{C\bibinitperiod}{Arturo\bibnamedelima G.}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6b2c65f267a112d8f36293e2c85a4989}{Corpuz}{C\bibinitperiod}{Arturo\bibnamedelima G.}{A\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {University of the Philippines Press}%
+      }
+      \strng{namehash}{6b2c65f267a112d8f36293e2c85a4989}
+      \strng{fullhash}{6b2c65f267a112d8f36293e2c85a4989}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{{The Colonial Iron Horse: Railroads and Regional Development in the {Philippines}, 1875-1935}}
+      \field{title}{{The Colonial Iron Horse: Railroads and Regional Development in the {Philippines}, 1875-1935}}
+      \field{year}{1999}
+    \endentry
+    \entry{DelaCosta1965}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d591cb7c673275f32b711d871be09f84}{Costa}{C\bibinitperiod}{Horacio}{H\bibinitperiod}{de\bibnamedelima la}{d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d591cb7c673275f32b711d871be09f84}{Costa}{C\bibinitperiod}{Horacio}{H\bibinitperiod}{de\bibnamedelima la}{d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {Bookmark}%
+      }
+      \strng{namehash}{d591cb7c673275f32b711d871be09f84}
+      \strng{fullhash}{d591cb7c673275f32b711d871be09f84}
+      \field{sortinit}{C}
+      \field{sortinithash}{dd0e4ddd17488a6ebf12cd6de2f2c237}
+      \field{labeltitle}{{Readings in Philippine History: Selected Historical Texts Presented with a Commentary}}
+      \field{title}{{Readings in Philippine History: Selected Historical Texts Presented with a Commentary}}
+      \field{year}{1965}
+    \endentry
+    \entry{DeBevoise1995}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=8e0bd0a137621ab7a7a3324eca3b9503}{{De\bibnamedelimb Bevoise}}{D\bibinitperiod}{Ken}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8e0bd0a137621ab7a7a3324eca3b9503}{{De\bibnamedelimb Bevoise}}{D\bibinitperiod}{Ken}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {New Day Publishers}%
+      }
+      \strng{namehash}{8e0bd0a137621ab7a7a3324eca3b9503}
+      \strng{fullhash}{8e0bd0a137621ab7a7a3324eca3b9503}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labeltitle}{{Agents of apocalypse: epidemic disease in the colonial Philippines}}
+      \field{title}{{Agents of apocalypse: epidemic disease in the colonial Philippines}}
+      \field{year}{1995}
+    \endentry
+    \entry{Porrua}{book}{}
+      \list{location}{1}{%
+        {México, D.F.}%
+      }
+      \list{publisher}{1}{%
+        {Editorial Porrúa}%
+      }
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labeltitle}{{Diccionario Porrúa de Historia, Biografía y Geografía de México quinta edición}}
+      \field{title}{{Diccionario Porrúa de Historia, Biografía y Geografía de México quinta edición}}
+    \endentry
+    \entry{Doeppers1998}{incollection}{}
+      \name{labelname}{2}{}{%
+        {{hash=afa43c6d9259195e08b4e99e7b697ead}{Doeppers}{D\bibinitperiod}{Daniel\bibnamedelima F.}{D\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=747ede345f7c2c0f22f4e0c6f153f56d}{Xenos}{X\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=afa43c6d9259195e08b4e99e7b697ead}{Doeppers}{D\bibinitperiod}{Daniel\bibnamedelima F.}{D\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+        {{hash=747ede345f7c2c0f22f4e0c6f153f56d}{Xenos}{X\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=f4cb240b9247a3c7f79543536d8ff2bd}{Doeppers}{D\bibinitperiod}{Daniel}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=747ede345f7c2c0f22f4e0c6f153f56d}{Xenos}{X\bibinitperiod}{Peter}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Madison}%
+      }
+      \list{publisher}{1}{%
+        {Center for Southeast Asian Studies, University of Wisconsin -- Madison}%
+      }
+      \strng{namehash}{5f2f219f56eab17eb23f73afc66a0ef8}
+      \strng{fullhash}{5f2f219f56eab17eb23f73afc66a0ef8}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labeltitle}{{A Demographic Frame for Philippine History}}
+      \field{booktitle}{Population and History: The Demographic Origins of the Modern Philippines}
+      \field{title}{{A Demographic Frame for Philippine History}}
+      \field{year}{1998}
+    \endentry
+    \entry{Drasche1878}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=0ec037d18db48d332c7b974ad992cb28}{Drasche}{D\bibinitperiod}{Richard}{R\bibinitperiod}{von}{v\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0ec037d18db48d332c7b974ad992cb28}{Drasche}{D\bibinitperiod}{Richard}{R\bibinitperiod}{von}{v\bibinitperiod}{}{}}%
+      }
+      \list{location}{1}{%
+        {Wien}%
+      }
+      \list{publisher}{1}{%
+        {Karl Gerold's Sohn}%
+      }
+      \strng{namehash}{0ec037d18db48d332c7b974ad992cb28}
+      \strng{fullhash}{0ec037d18db48d332c7b974ad992cb28}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labeltitle}{{Fragmente zu einer Geologie der Insel Luzon (Philippinen)}}
+      \field{title}{{Fragmente zu einer Geologie der Insel Luzon (Philippinen)}}
+      \field{year}{1878}
+    \endentry
+    \entry{Dumas2004}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=df2958dcfcf59dcdf60d3bd88c57317a}{Dumas}{D\bibinitperiod}{Alexandre}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=df2958dcfcf59dcdf60d3bd88c57317a}{Dumas}{D\bibinitperiod}{Alexandre}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=9cfdbb87832f22734d1601a08280c077}{Brown}{B\bibinitperiod}{Andrew}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Hesperus Classics}%
+      }
+      \strng{namehash}{df2958dcfcf59dcdf60d3bd88c57317a}
+      \strng{fullhash}{df2958dcfcf59dcdf60d3bd88c57317a}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labeltitle}{{One Thousand and One Ghosts}}
+      \field{title}{{One Thousand and One Ghosts}}
+      \field{year}{2004}
+    \endentry
+    \entry{Dumas}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=df2958dcfcf59dcdf60d3bd88c57317a}{Dumas}{D\bibinitperiod}{Alexandre}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=df2958dcfcf59dcdf60d3bd88c57317a}{Dumas}{D\bibinitperiod}{Alexandre}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {T.B. Peterson \protect{and} Brothers}%
+      }
+      \strng{namehash}{df2958dcfcf59dcdf60d3bd88c57317a}
+      \strng{fullhash}{df2958dcfcf59dcdf60d3bd88c57317a}
+      \field{sortinit}{D}
+      \field{sortinithash}{a01c54d1737685bc6dbf0ea0673fa44c}
+      \field{labeltitle}{{The Man with Five Wives}}
+      \field{title}{{The Man with Five Wives}}
+      \field{year}{n.d.}
+    \endentry
+    \entry{Ellis1859}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=027d9bbc4c77a1da21086c3e4502d201}{Ellis}{E\bibinitperiod}{Henry\bibnamedelima T.}{H\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=027d9bbc4c77a1da21086c3e4502d201}{Ellis}{E\bibinitperiod}{Henry\bibnamedelima T.}{H\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Smith, Elder, \protect{and} Co.}%
+      }
+      \strng{namehash}{027d9bbc4c77a1da21086c3e4502d201}
+      \strng{fullhash}{027d9bbc4c77a1da21086c3e4502d201}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{{Hong Kong to Manilla \textup{\textins{sic}} and the Lakes of Luzon, in the Philippine Isles, in the Year 1856}}
+      \field{title}{{Hong Kong to Manilla \textup{\textins{sic}} and the Lakes of Luzon, in the Philippine Isles, in the Year 1856}}
+      \field{year}{1859}
+    \endentry
+    \entry{Eugenio1987}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=5a14e6608e1ca27d143ef14ec236ec88}{Eugenio}{E\bibinitperiod}{Damiana\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5a14e6608e1ca27d143ef14ec236ec88}{Eugenio}{E\bibinitperiod}{Damiana\bibnamedelima L}{D\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {University of the Philippines Press}%
+      }
+      \strng{namehash}{5a14e6608e1ca27d143ef14ec236ec88}
+      \strng{fullhash}{5a14e6608e1ca27d143ef14ec236ec88}
+      \field{sortinit}{E}
+      \field{sortinithash}{655e26c7438ff123e5c69c6c3f702107}
+      \field{labeltitle}{{Awit and Corrido: Philippine Metrical Romances}}
+      \field{title}{{Awit and Corrido: Philippine Metrical Romances}}
+      \field{year}{1987}
+    \endentry
+    \entry{Fast1979}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=b2dae308de26a988944ddedcf597eb78}{Fast}{F\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7d752e44b80a4cfba4e10842daf5bd37}{Richardson}{R\bibinitperiod}{Jim}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=b2dae308de26a988944ddedcf597eb78}{Fast}{F\bibinitperiod}{Jonathan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7d752e44b80a4cfba4e10842daf5bd37}{Richardson}{R\bibinitperiod}{Jim}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Foundation for Nationalist Studies}%
+      }
+      \strng{namehash}{ee497bd000a4c99aefe4b33d2a74b0e7}
+      \strng{fullhash}{ee497bd000a4c99aefe4b33d2a74b0e7}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labeltitle}{{Roots of Dependency: Political and Economic Revolution in the 19th Century Philippines}}
+      \field{title}{{Roots of Dependency: Political and Economic Revolution in the 19th Century Philippines}}
+      \field{year}{1979}
+    \endentry
+    \entry{Fernandez1996}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=9593854cb3cbd72897aea5c167def6ba}{Fernandez}{F\bibinitperiod}{Doreen\bibnamedelima G.}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9593854cb3cbd72897aea5c167def6ba}{Fernandez}{F\bibinitperiod}{Doreen\bibnamedelima G.}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Ateneo de Manila University Press}%
+      }
+      \strng{namehash}{9593854cb3cbd72897aea5c167def6ba}
+      \strng{fullhash}{9593854cb3cbd72897aea5c167def6ba}
+      \field{sortinit}{F}
+      \field{sortinithash}{9661cce5f16ac30b6b0c804d4583ed99}
+      \field{labeltitle}{{Palabas: essays on Philippine theater history}}
+      \field{title}{{Palabas: essays on Philippine theater history}}
+      \field{year}{1996}
+    \endentry
+    \entry{Gironiere1962}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=1bfbadf21cb1ced9621b624afd9118cd}{Gironiere}{G\bibinitperiod}{Paul\bibnamedelimb de\bibnamedelima la}{P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1bfbadf21cb1ced9621b624afd9118cd}{Gironiere}{G\bibinitperiod}{Paul\bibnamedelimb de\bibnamedelima la}{P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {National Historical Institute}%
+      }
+      \strng{namehash}{1bfbadf21cb1ced9621b624afd9118cd}
+      \strng{fullhash}{1bfbadf21cb1ced9621b624afd9118cd}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{{Twenty Years in the Philippines}}
+      \field{title}{{Twenty Years in the Philippines}}
+      \field{year}{1962}
+    \endentry
+    \entry{Gironiere1983}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d604072a262577d884611b4d0973e640}{Gironiere}{G\bibinitperiod}{Paul}{P\bibinitperiod}{de\bibnamedelima la}{d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d604072a262577d884611b4d0973e640}{Gironiere}{G\bibinitperiod}{Paul}{P\bibinitperiod}{de\bibnamedelima la}{d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=088e6fd816e184b22f6c1c33a6a2178e}{Cruz}{C\bibinitperiod}{E.\bibnamedelimi Aguilar}{E\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {National Historical Institute}%
+      }
+      \strng{namehash}{d604072a262577d884611b4d0973e640}
+      \strng{fullhash}{d604072a262577d884611b4d0973e640}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{{Journey to Majayjay}}
+      \field{title}{{Journey to Majayjay}}
+      \field{year}{1983}
+    \endentry
+    \entry{Gironiere1862}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d604072a262577d884611b4d0973e640}{Gironiere}{G\bibinitperiod}{Paul}{P\bibinitperiod}{de\bibnamedelima la}{d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d604072a262577d884611b4d0973e640}{Gironiere}{G\bibinitperiod}{Paul}{P\bibinitperiod}{de\bibnamedelima la}{d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}}%
+      }
+      \list{location}{1}{%
+        {Nantes}%
+      }
+      \list{publisher}{1}{%
+        {Imprimerie de Vincent Forest et Émile Grimaud}%
+      }
+      \strng{namehash}{d604072a262577d884611b4d0973e640}
+      \strng{fullhash}{d604072a262577d884611b4d0973e640}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{{Mœurs Indiennes et Quelques Pensées Philosophiques Pendant un Voyage a Majaijai (Iles {Philippines})}}
+      \field{title}{{Mœurs Indiennes et Quelques Pensées Philosophiques Pendant un Voyage a Majaijai (Iles {Philippines})}}
+      \field{year}{1862}
+    \endentry
+    \entry{Gironiere1853}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d604072a262577d884611b4d0973e640}{Gironiere}{G\bibinitperiod}{Paul}{P\bibinitperiod}{de\bibnamedelima la}{d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d604072a262577d884611b4d0973e640}{Gironiere}{G\bibinitperiod}{Paul}{P\bibinitperiod}{de\bibnamedelima la}{d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {Comptoir des Imprimeurs Unis}%
+      }
+      \strng{namehash}{d604072a262577d884611b4d0973e640}
+      \strng{fullhash}{d604072a262577d884611b4d0973e640}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{{Vingt Années aux {Philippines}: Souvenirs de Jala-Jala.}}
+      \field{title}{{Vingt Années aux {Philippines}: Souvenirs de Jala-Jala.}}
+      \field{year}{1853}
+    \endentry
+    \entry{GordonJr.2005}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=6a04682f8fa132873c9a81d4d3ef6682}{{Gordon\bibnamedelimb Jr.}}{G\bibinitperiod}{Raymond\bibnamedelima G.}{R\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=6a04682f8fa132873c9a81d4d3ef6682}{{Gordon\bibnamedelimb Jr.}}{G\bibinitperiod}{Raymond\bibnamedelima G.}{R\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Dallas}%
+      }
+      \list{publisher}{1}{%
+        {SIL International}%
+      }
+      \strng{namehash}{6a04682f8fa132873c9a81d4d3ef6682}
+      \strng{fullhash}{6a04682f8fa132873c9a81d4d3ef6682}
+      \field{sortinit}{G}
+      \field{sortinithash}{480ee01f9ffd559b3258d822f54a8ac2}
+      \field{labeltitle}{{Ethnologue: Languages of the World, Fifteenth edition}}
+      \field{title}{{Ethnologue: Languages of the World, Fifteenth edition}}
+      \field{year}{2005}
+    \endentry
+    \entry{Headland1989}{article}{}
+      \name{labelname}{19}{}{%
+        {{hash=34a5f547239cfa96be9bd6392dbf646b}{Headland}{H\bibinitperiod}{Thomas\bibnamedelima N}{T\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=d6aea0850f61c44706fd834f9015b40d}{Reid}{R\bibinitperiod}{Lawrence\bibnamedelima a}{L\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=8ef52a3a2470de00d722fa96236b727c}{Bicchieri}{B\bibinitperiod}{M\bibnamedelima G}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=66cec738f4c6054cf0d8996bfeab9d06}{Bishop}{B\bibinitperiod}{Charles\bibnamedelima a}{C\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=e031f61d2d58cfe84f0975c9fad7f4fc}{Flanders}{F\bibinitperiod}{Nicholas\bibnamedelima E}{N\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=0c9600bbe64e8194fb69a4d06badabbb}{Gardner}{G\bibinitperiod}{Peter\bibnamedelima M}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=d5405616525f37bf8b45f3a202773354}{Hutterer}{H\bibinitperiod}{Karl\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=121b074f97c4e09fff967e1bab3838a2}{Marciniak}{M\bibinitperiod}{Arkadiusz}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=312d99a0de83241d07ee66c2b38b70d8}{Schroeder}{S\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=695d4066df909a13a56cafc168a8a992}{Seitz}{S\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bee32dd563208a483fd40d85c2c661f7}{Reid}{R\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=55b157d65e0bd43ab16888023c2379af}{Barnard}{B\bibinitperiod}{Alan}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=243e5be2ccf5ad4676408cd5bbba215e}{Guenther}{G\bibinitperiod}{Matthias}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=595fc7015a7f5c48e26d4f2961c2e996}{Hochstetler}{H\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4c132eed1bf406c450ac84be6fc61bea}{Hutterer}{H\bibinitperiod}{Karl}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1bcfb11c6c24b6b1c787355f933f9344}{Mckinney}{M\bibinitperiod}{Carol}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=4f9f2df2c31168a5d340b16a11d79378}{Scott}{S\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=eec192c830234ec950c2a07ab3fe57af}{Edgerton}{E\bibinitperiod}{Ronald}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=10f031731c27088591df80a0af667f38}{Munoz}{M\bibinitperiod}{Pedro\bibnamedelima Gil}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{19}{}{%
+        {{hash=34a5f547239cfa96be9bd6392dbf646b}{Headland}{H\bibinitperiod}{Thomas\bibnamedelima N}{T\bibinitperiod\bibinitdelim N\bibinitperiod}{}{}{}{}}%
+        {{hash=d6aea0850f61c44706fd834f9015b40d}{Reid}{R\bibinitperiod}{Lawrence\bibnamedelima a}{L\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=8ef52a3a2470de00d722fa96236b727c}{Bicchieri}{B\bibinitperiod}{M\bibnamedelima G}{M\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=66cec738f4c6054cf0d8996bfeab9d06}{Bishop}{B\bibinitperiod}{Charles\bibnamedelima a}{C\bibinitperiod\bibinitdelim a\bibinitperiod}{}{}{}{}}%
+        {{hash=e031f61d2d58cfe84f0975c9fad7f4fc}{Flanders}{F\bibinitperiod}{Nicholas\bibnamedelima E}{N\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=0c9600bbe64e8194fb69a4d06badabbb}{Gardner}{G\bibinitperiod}{Peter\bibnamedelima M}{P\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=d5405616525f37bf8b45f3a202773354}{Hutterer}{H\bibinitperiod}{Karl\bibnamedelima L}{K\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=121b074f97c4e09fff967e1bab3838a2}{Marciniak}{M\bibinitperiod}{Arkadiusz}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=312d99a0de83241d07ee66c2b38b70d8}{Schroeder}{S\bibinitperiod}{F}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=695d4066df909a13a56cafc168a8a992}{Seitz}{S\bibinitperiod}{Stefan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=bee32dd563208a483fd40d85c2c661f7}{Reid}{R\bibinitperiod}{A}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=55b157d65e0bd43ab16888023c2379af}{Barnard}{B\bibinitperiod}{Alan}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=243e5be2ccf5ad4676408cd5bbba215e}{Guenther}{G\bibinitperiod}{Matthias}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=595fc7015a7f5c48e26d4f2961c2e996}{Hochstetler}{H\bibinitperiod}{Susan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=4c132eed1bf406c450ac84be6fc61bea}{Hutterer}{H\bibinitperiod}{Karl}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=1bcfb11c6c24b6b1c787355f933f9344}{Mckinney}{M\bibinitperiod}{Carol}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=4f9f2df2c31168a5d340b16a11d79378}{Scott}{S\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=eec192c830234ec950c2a07ab3fe57af}{Edgerton}{E\bibinitperiod}{Ronald}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=10f031731c27088591df80a0af667f38}{Munoz}{M\bibinitperiod}{Pedro\bibnamedelima Gil}{P\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{c80284b356297e9541e3cb2400028639}
+      \strng{fullhash}{4f64d05a1229301c903d77f37b381c22}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{{Hunter-Gatherers and Their Neighbors from Prehistory to the Present}}
+      \field{journaltitle}{Current Anthropology}
+      \field{number}{1}
+      \field{title}{{Hunter-Gatherers and Their Neighbors from Prehistory to the Present}}
+      \field{volume}{30}
+      \field{year}{1989}
+      \field{pages}{43\bibrangedash 66}
+    \endentry
+    \entry{Hernandez2000}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=06bd18cbd82e62dc3ce673a4ab779ad3}{Hernández}{H\bibinitperiod}{Paloma\bibnamedelima Albalá}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=06bd18cbd82e62dc3ce673a4ab779ad3}{Hernández}{H\bibinitperiod}{Paloma\bibnamedelima Albalá}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Vervuert}%
+      }
+      \list{publisher}{1}{%
+        {Iberoamericana}%
+      }
+      \strng{namehash}{06bd18cbd82e62dc3ce673a4ab779ad3}
+      \strng{fullhash}{06bd18cbd82e62dc3ce673a4ab779ad3}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{{Americanismos en las {India}s del Poniente: Voces de origen indígena americano en las lenguas del Pacífico}}
+      \field{title}{{Americanismos en las {India}s del Poniente: Voces de origen indígena americano en las lenguas del Pacífico}}
+      \field{year}{2000}
+    \endentry
+    \entry{Himes2002}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=967313e32a4f4d85465f4c6c183adcf8}{Himes}{H\bibinitperiod}{Ronald\bibnamedelima S.}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=967313e32a4f4d85465f4c6c183adcf8}{Himes}{H\bibinitperiod}{Ronald\bibnamedelima S.}{R\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{967313e32a4f4d85465f4c6c183adcf8}
+      \strng{fullhash}{967313e32a4f4d85465f4c6c183adcf8}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{{The Relationship of Umiray Dumaget to Other Philippine Languages}}
+      \field{issn}{1527-9421}
+      \field{journaltitle}{Oceanic Linguistics}
+      \field{number}{2}
+      \field{title}{{The Relationship of Umiray Dumaget to Other Philippine Languages}}
+      \field{volume}{41}
+      \field{year}{2002}
+      \field{pages}{275\bibrangedash 294}
+      \verb{doi}
+      \verb 10.1353/ol.2002.0005
+      \endverb
+    \endentry
+    \entry{Hobsbawm2000}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d82a0b6e3fd36740d6ec5631c52f24a1}{Hobsbawm}{H\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d82a0b6e3fd36740d6ec5631c52f24a1}{Hobsbawm}{H\bibinitperiod}{Eric}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {New Press}%
+      }
+      \strng{namehash}{d82a0b6e3fd36740d6ec5631c52f24a1}
+      \strng{fullhash}{d82a0b6e3fd36740d6ec5631c52f24a1}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{{Bandits}}
+      \field{edition}{Revised Ed}
+      \field{title}{{Bandits}}
+      \field{year}{2000}
+    \endentry
+    \entry{Huerta1863}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=720bd3abb47ded28fd0babaf3eab4fb9}{Huerta}{H\bibinitperiod}{Félix}{F\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=720bd3abb47ded28fd0babaf3eab4fb9}{Huerta}{H\bibinitperiod}{Félix}{F\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+      }
+      \list{location}{1}{%
+        {Binondo}%
+      }
+      \list{publisher}{1}{%
+        {Imprenta de M Sánchez y Co.}%
+      }
+      \strng{namehash}{720bd3abb47ded28fd0babaf3eab4fb9}
+      \strng{fullhash}{720bd3abb47ded28fd0babaf3eab4fb9}
+      \field{sortinit}{H}
+      \field{sortinithash}{95b2cb08933fe649b7e9f8beee2132b4}
+      \field{labeltitle}{{Estado geográfico, topográfico, estadístico, histórico-religioso de la santa y apostólica provincia de S. Gregorio Magno}}
+      \field{title}{{Estado geográfico, topográfico, estadístico, histórico-religioso de la santa y apostólica provincia de S. Gregorio Magno}}
+      \field{year}{1863}
+    \endentry
+    \entry{Ileto1998}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=6e5ade75b989f2f6a3771dca9de4f4ae}{Ileto}{I\bibinitperiod}{Reynaldo\bibnamedelima C.}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6e5ade75b989f2f6a3771dca9de4f4ae}{Ileto}{I\bibinitperiod}{Reynaldo\bibnamedelima C.}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Ateneo de Manila University Press}%
+      }
+      \strng{namehash}{6e5ade75b989f2f6a3771dca9de4f4ae}
+      \strng{fullhash}{6e5ade75b989f2f6a3771dca9de4f4ae}
+      \field{sortinit}{I}
+      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
+      \field{labeltitle}{{Bernardo Carpio:Awit and Revolution}}
+      \field{booktitle}{Filipinos and their Revolution: Event, Discourse and Historiography}
+      \field{title}{{Bernardo Carpio:Awit and Revolution}}
+      \field{year}{1998}
+      \field{pages}{1\bibrangedash 28}
+    \endentry
+    \entry{Ileto1984}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=15fcb3c18ad7b6c9fb2b808779e1959f}{Ileto}{I\bibinitperiod}{Reynaldo\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=15fcb3c18ad7b6c9fb2b808779e1959f}{Ileto}{I\bibinitperiod}{Reynaldo\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{15fcb3c18ad7b6c9fb2b808779e1959f}
+      \strng{fullhash}{15fcb3c18ad7b6c9fb2b808779e1959f}
+      \field{sortinit}{I}
+      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
+      \field{labeltitle}{{Bonifacio, the Text, and the Social Scientist}}
+      \field{journaltitle}{Philippine Sociological Review}
+      \field{number}{1-4}
+      \field{title}{{Bonifacio, the Text, and the Social Scientist}}
+      \field{volume}{32}
+      \field{year}{1984}
+      \field{pages}{19\bibrangedash 30}
+    \endentry
+    \entry{Ileto1998a}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=6e5ade75b989f2f6a3771dca9de4f4ae}{Ileto}{I\bibinitperiod}{Reynaldo\bibnamedelima C.}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=6e5ade75b989f2f6a3771dca9de4f4ae}{Ileto}{I\bibinitperiod}{Reynaldo\bibnamedelima C.}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Ateneo de Manila University Press}%
+      }
+      \strng{namehash}{6e5ade75b989f2f6a3771dca9de4f4ae}
+      \strng{fullhash}{6e5ade75b989f2f6a3771dca9de4f4ae}
+      \field{sortinit}{I}
+      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
+      \field{labeltitle}{{History and Criticism: The Invention of Heroes}}
+      \field{booktitle}{Filipinos and their Revolution: Event, Discourse and Historiography}
+      \field{title}{{History and Criticism: The Invention of Heroes}}
+      \field{year}{1998}
+      \field{pages}{203\bibrangedash 238}
+    \endentry
+    \entry{Ileto1982a}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=15fcb3c18ad7b6c9fb2b808779e1959f}{Ileto}{I\bibinitperiod}{Reynaldo\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=15fcb3c18ad7b6c9fb2b808779e1959f}{Ileto}{I\bibinitperiod}{Reynaldo\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{15fcb3c18ad7b6c9fb2b808779e1959f}
+      \strng{fullhash}{15fcb3c18ad7b6c9fb2b808779e1959f}
+      \field{sortinit}{I}
+      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
+      \field{labeltitle}{{\enquote{Methodological} Implications of a Dispute on Andres Bonifacio}}
+      \field{journaltitle}{Anuaryo/Annales}
+      \field{number}{3}
+      \field{title}{{\enquote{Methodological} Implications of a Dispute on Andres Bonifacio}}
+      \field{volume}{1}
+      \field{year}{1982}
+      \field{pages}{1\bibrangedash 15}
+    \endentry
+    \entry{Ileto1979}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=15fcb3c18ad7b6c9fb2b808779e1959f}{Ileto}{I\bibinitperiod}{Reynaldo\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=15fcb3c18ad7b6c9fb2b808779e1959f}{Ileto}{I\bibinitperiod}{Reynaldo\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Ateneo de Manila University Press}%
+      }
+      \strng{namehash}{15fcb3c18ad7b6c9fb2b808779e1959f}
+      \strng{fullhash}{15fcb3c18ad7b6c9fb2b808779e1959f}
+      \field{sortinit}{I}
+      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
+      \field{labeltitle}{{Pasyon and Revolution: Popular Movements in the {Philippines} 1840-1910}}
+      \field{title}{{Pasyon and Revolution: Popular Movements in the {Philippines} 1840-1910}}
+      \field{year}{1979}
+    \endentry
+    \entry{Ileto1982}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=15fcb3c18ad7b6c9fb2b808779e1959f}{Ileto}{I\bibinitperiod}{Reynaldo\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=15fcb3c18ad7b6c9fb2b808779e1959f}{Ileto}{I\bibinitperiod}{Reynaldo\bibnamedelima C}{R\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=246bd5e2701a885390c27eb1bc5ec693}{Wyatt}{W\bibinitperiod}{David\bibnamedelima K.}{D\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+        {{hash=462f3f0eca4c946b1fc8fdd84e781bc0}{Woodside}{W\bibinitperiod}{Alexander}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New Haven}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Southeast Asia Studies}%
+      }
+      \strng{namehash}{15fcb3c18ad7b6c9fb2b808779e1959f}
+      \strng{fullhash}{15fcb3c18ad7b6c9fb2b808779e1959f}
+      \field{sortinit}{I}
+      \field{sortinithash}{b2e302e575c74beffcc96ef7059003aa}
+      \field{labeltitle}{{Rizal and the Underside of Philippine History}}
+      \field{booktitle}{Moral Order and the Question of Change: Essays on Southeast Asian Thought}
+      \field{series}{Monograph Series}
+      \field{title}{{Rizal and the Underside of Philippine History}}
+      \field{year}{1982}
+      \field{pages}{274\bibrangedash 337}
+    \endentry
+    \entry{Jagor1875}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d1dc7b718506e2d68dbb2e5c0ffa2d36}{Jagor}{J\bibinitperiod}{Fedor}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d1dc7b718506e2d68dbb2e5c0ffa2d36}{Jagor}{J\bibinitperiod}{Fedor}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Chapman \protect{and} Hall}%
+      }
+      \strng{namehash}{d1dc7b718506e2d68dbb2e5c0ffa2d36}
+      \strng{fullhash}{d1dc7b718506e2d68dbb2e5c0ffa2d36}
+      \field{sortinit}{J}
+      \field{sortinithash}{f75b22df8c340a961dce37019e29107f}
+      \field{labeltitle}{{Travels in the Philippines}}
+      \field{title}{{Travels in the Philippines}}
+      \field{year}{1875}
+    \endentry
+    \entry{Javellana1983}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=02bdf0f7bf7a6ba4373f540f991e2596}{Javellana}{J\bibinitperiod}{Rene\bibnamedelima B.}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=02bdf0f7bf7a6ba4373f540f991e2596}{Javellana}{J\bibinitperiod}{Rene\bibnamedelima B.}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{02bdf0f7bf7a6ba4373f540f991e2596}
+      \strng{fullhash}{02bdf0f7bf7a6ba4373f540f991e2596}
+      \field{sortinit}{J}
+      \field{sortinithash}{f75b22df8c340a961dce37019e29107f}
+      \field{labeltitle}{{Pasyon Genealogy and Annotated Bibliography}}
+      \field{journaltitle}{Philippine Studies}
+      \field{number}{1}
+      \field{title}{{Pasyon Genealogy and Annotated Bibliography}}
+      \field{volume}{31}
+      \field{year}{1983}
+      \field{pages}{451\bibrangedash 67}
+    \endentry
+    \entry{DeJesus1980}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=e33ad67a6cb99e8d6a379975b3b41a20}{Jesus}{J\bibinitperiod}{Ed.\bibnamedelimi C.}{E\bibinitperiod\bibinitdelim C\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=e33ad67a6cb99e8d6a379975b3b41a20}{Jesus}{J\bibinitperiod}{Ed.\bibnamedelimi C.}{E\bibinitperiod\bibinitdelim C\bibinitperiod}{de}{d\bibinitperiod}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Ateneo de Manila University Press}%
+      }
+      \strng{namehash}{e33ad67a6cb99e8d6a379975b3b41a20}
+      \strng{fullhash}{e33ad67a6cb99e8d6a379975b3b41a20}
+      \field{sortinit}{J}
+      \field{sortinithash}{f75b22df8c340a961dce37019e29107f}
+      \field{labeltitle}{{The Tobacco Monopoly in the {Philippines}: Bureaucratic Enterprise and Social Change, 1766-1880}}
+      \field{title}{{The Tobacco Monopoly in the {Philippines}: Bureaucratic Enterprise and Social Change, 1766-1880}}
+      \field{year}{1980}
+    \endentry
+    \entry{Kalaw1965}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=5db2ce8937cb28618a9c15d2a2e8929d}{Kalaw}{K\bibinitperiod}{Teodoro\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5db2ce8937cb28618a9c15d2a2e8929d}{Kalaw}{K\bibinitperiod}{Teodoro\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=e583788196964f260b25170cb1e4678e}{Katigbak}{K\bibinitperiod}{Maria\bibnamedelima Kalaw}{M\bibinitperiod\bibinitdelim K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {Teodoro M. Kalaw Society}%
+      }
+      \strng{namehash}{5db2ce8937cb28618a9c15d2a2e8929d}
+      \strng{fullhash}{5db2ce8937cb28618a9c15d2a2e8929d}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{{Aide-de-Camp to Freedom}}
+      \field{title}{{Aide-de-Camp to Freedom}}
+      \field{year}{1965}
+    \endentry
+    \entry{Kalaw1969}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=5db2ce8937cb28618a9c15d2a2e8929d}{Kalaw}{K\bibinitperiod}{Teodoro\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5db2ce8937cb28618a9c15d2a2e8929d}{Kalaw}{K\bibinitperiod}{Teodoro\bibnamedelima M.}{T\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Mandaluyong}%
+      }
+      \list{publisher}{1}{%
+        {Jorge B. Vargas Filipiana Foundation}%
+      }
+      \strng{namehash}{5db2ce8937cb28618a9c15d2a2e8929d}
+      \strng{fullhash}{5db2ce8937cb28618a9c15d2a2e8929d}
+      \field{sortinit}{K}
+      \field{sortinithash}{33bf4c961fa093ee6a297ccbd88eacc0}
+      \field{labeltitle}{{The Philippine Revolution}}
+      \field{title}{{The Philippine Revolution}}
+      \field{year}{1969}
+    \endentry
+    \entry{Leonard1949}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=b1d7cf7bed39dc1ca01204b246ac3423}{Leonard}{L\bibinitperiod}{Irving}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b1d7cf7bed39dc1ca01204b246ac3423}{Leonard}{L\bibinitperiod}{Irving}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Cambridge}%
+      }
+      \list{publisher}{1}{%
+        {Harvard University Press}%
+      }
+      \strng{namehash}{b1d7cf7bed39dc1ca01204b246ac3423}
+      \strng{fullhash}{b1d7cf7bed39dc1ca01204b246ac3423}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{{Books of the Brave: Being an Account of Book and of Men in the Spanish Conquest and Settlement of the Sixteenth-Century New World}}
+      \field{title}{{Books of the Brave: Being an Account of Book and of Men in the Spanish Conquest and Settlement of the Sixteenth-Century New World}}
+      \field{year}{1949}
+    \endentry
+    \entry{Leonard1933}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=b1d7cf7bed39dc1ca01204b246ac3423}{Leonard}{L\bibinitperiod}{Irving}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b1d7cf7bed39dc1ca01204b246ac3423}{Leonard}{L\bibinitperiod}{Irving}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berkeley}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{b1d7cf7bed39dc1ca01204b246ac3423}
+      \strng{fullhash}{b1d7cf7bed39dc1ca01204b246ac3423}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{{Romances of Chivalry in the Spanish Indies, with some registros of shipments of books to the Spanish colonies}}
+      \field{number}{3}
+      \field{series}{University of California Publications in Modern Philology}
+      \field{title}{{Romances of Chivalry in the Spanish Indies, with some registros of shipments of books to the Spanish colonies}}
+      \field{volume}{18}
+      \field{year}{1933}
+    \endentry
+    \entry{Lindsay1854}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=af738fbfd67d879ec1431e7e90af69b1}{Lindsay}{L\bibinitperiod}{H.\bibnamedelimi Hamilton}{H\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=af738fbfd67d879ec1431e7e90af69b1}{Lindsay}{L\bibinitperiod}{H.\bibnamedelimi Hamilton}{H\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{bookauthor}{1}{}{%
+        {{hash=e173af59a0804c5fe13f37f0d07f7694}{Gironiere}{G\bibinitperiod}{Paul\bibnamedelimb Proust\bibnamedelimb de\bibnamedelima la}{P\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim l\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Harper \protect{and} Brothers}%
+      }
+      \strng{namehash}{af738fbfd67d879ec1431e7e90af69b1}
+      \strng{fullhash}{af738fbfd67d879ec1431e7e90af69b1}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{{Testimony of H. Hamilton Lindsay, Esq.}}
+      \field{booktitle}{Twenty Years in the Philippines}
+      \field{chapter}{Appendix II}
+      \field{title}{{Testimony of H. Hamilton Lindsay, Esq.}}
+      \field{year}{1854}
+    \endentry
+    \entry{Llamzon1976}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=4f0f5959fd5ffa367eafd4bf50d0bf48}{Llamzon}{L\bibinitperiod}{Teodoro\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4f0f5959fd5ffa367eafd4bf50d0bf48}{Llamzon}{L\bibinitperiod}{Teodoro\bibnamedelima A}{T\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=726fc85e7647d1011112e85f556bb709}{Lombard}{L\bibinitperiod}{Denys}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \list{publisher}{1}{%
+        {L'Asiathèque}%
+      }
+      \strng{namehash}{4f0f5959fd5ffa367eafd4bf50d0bf48}
+      \strng{fullhash}{4f0f5959fd5ffa367eafd4bf50d0bf48}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{{The Importance of Dialects in Historical Linguistics: Conant's Pepet Law in Philippine Languages as a Case in Point.}}
+      \field{booktitle}{Actes de XXIX\textsuperscript{e} Congrès international des Orientalistes: Indonésie}
+      \field{title}{{The Importance of Dialects in Historical Linguistics: Conant's Pepet Law in Philippine Languages as a Case in Point.}}
+      \field{volume}{3}
+      \field{year}{1976}
+    \endentry
+    \entry{Lumbera1986}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=9715d1c666436a5d5d1a80316059cb00}{Lumbera}{L\bibinitperiod}{Bienvenido\bibnamedelima L}{B\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9715d1c666436a5d5d1a80316059cb00}{Lumbera}{L\bibinitperiod}{Bienvenido\bibnamedelima L}{B\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Ateneo de Manila University Press}%
+      }
+      \strng{namehash}{9715d1c666436a5d5d1a80316059cb00}
+      \strng{fullhash}{9715d1c666436a5d5d1a80316059cb00}
+      \field{sortinit}{L}
+      \field{sortinithash}{c41a2b5886eeae464e75d1a9df4cd13e}
+      \field{labeltitle}{{Tagalog Poetry, 1570-1898: Tradition and Influences in its Development}}
+      \field{title}{{Tagalog Poetry, 1570-1898: Tradition and Influences in its Development}}
+      \field{year}{1986}
+    \endentry
+    \entry{MacMicking1851}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c88db13c325506d51832d3030e6e38bf}{MacMicking}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c88db13c325506d51832d3030e6e38bf}{MacMicking}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Richard Bentley}%
+      }
+      \strng{namehash}{c88db13c325506d51832d3030e6e38bf}
+      \strng{fullhash}{c88db13c325506d51832d3030e6e38bf}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{{Recollections of Manilla and the {Philippines} during 1848, 1849, and 1850}}
+      \field{title}{{Recollections of Manilla and the {Philippines} during 1848, 1849, and 1850}}
+      \field{year}{1851}
+    \endentry
+    \entry{Medina2002}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=5e37a0e9703fadd90f76339ac26c9899}{Medina}{M\bibinitperiod}{Isagani}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5e37a0e9703fadd90f76339ac26c9899}{Medina}{M\bibinitperiod}{Isagani}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {University of the Philippines Press}%
+      }
+      \strng{namehash}{5e37a0e9703fadd90f76339ac26c9899}
+      \strng{fullhash}{5e37a0e9703fadd90f76339ac26c9899}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{{Cavite Before the Revolution, 1571-1896}}
+      \field{title}{{Cavite Before the Revolution, 1571-1896}}
+      \field{year}{2002}
+    \endentry
+    \entry{Miranda1911}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=9d6e643a8a81c737d218389db324bfbd}{Miranda}{M\bibinitperiod}{Claudio\bibnamedelima R.}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9d6e643a8a81c737d218389db324bfbd}{Miranda}{M\bibinitperiod}{Claudio\bibnamedelima R.}{C\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {Cultura Filipina}%
+      }
+      \strng{namehash}{9d6e643a8a81c737d218389db324bfbd}
+      \strng{fullhash}{9d6e643a8a81c737d218389db324bfbd}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{{Costumbres populares}}
+      \field{annotation}{Introduction by Isabelo de los Reyes}
+      \field{title}{{Costumbres populares}}
+      \field{year}{1911}
+      \field{pages}{151}
+    \endentry
+    \entry{Mojares2006}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c82bdcb1221b832923f8c391eacaa984}{Mojares}{M\bibinitperiod}{Resil\bibnamedelima B.}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c82bdcb1221b832923f8c391eacaa984}{Mojares}{M\bibinitperiod}{Resil\bibnamedelima B.}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Ateneo de Manila University Press}%
+      }
+      \strng{namehash}{c82bdcb1221b832923f8c391eacaa984}
+      \strng{fullhash}{c82bdcb1221b832923f8c391eacaa984}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{{Brains of the Nation: Pedro Paterno, T.H. Pardo de Tavera, Isabelo de los Reyes and the Production of Modern Knowledge}}
+      \field{title}{{Brains of the Nation: Pedro Paterno, T.H. Pardo de Tavera, Isabelo de los Reyes and the Production of Modern Knowledge}}
+      \field{year}{2006}
+    \endentry
+    \entry{Mojares1983}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=c82bdcb1221b832923f8c391eacaa984}{Mojares}{M\bibinitperiod}{Resil\bibnamedelima B.}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=c82bdcb1221b832923f8c391eacaa984}{Mojares}{M\bibinitperiod}{Resil\bibnamedelima B.}{R\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {University of the Philippines Press}%
+      }
+      \strng{namehash}{c82bdcb1221b832923f8c391eacaa984}
+      \strng{fullhash}{c82bdcb1221b832923f8c391eacaa984}
+      \field{sortinit}{M}
+      \field{sortinithash}{4203d16473bc940d4ac780773cb7c5dd}
+      \field{labeltitle}{{Origins and Rise of the Filipino Novel: A generic study of the novel until 1940}}
+      \field{title}{{Origins and Rise of the Filipino Novel: A generic study of the novel until 1940}}
+      \field{year}{1983}
+    \endentry
+    \entry{Noceda1860}{book}{}
+      \name{labelname}{2}{}{%
+        {{hash=4ec520fe940054581793a5d3ccaf0f19}{Noceda}{N\bibinitperiod}{Juan\bibnamedelima De}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=202d3d8930a707c1b7756b58994cae94}{Sanlucar}{S\bibinitperiod}{Pedro\bibnamedelima De}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{2}{}{%
+        {{hash=4ec520fe940054581793a5d3ccaf0f19}{Noceda}{N\bibinitperiod}{Juan\bibnamedelima De}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=202d3d8930a707c1b7756b58994cae94}{Sanlucar}{S\bibinitperiod}{Pedro\bibnamedelima De}{P\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {Imprenta de Ramirez y Giraudier}%
+      }
+      \strng{namehash}{e6b82afa133610c64c9f1b6cf5f6d8ae}
+      \strng{fullhash}{e6b82afa133610c64c9f1b6cf5f6d8ae}
+      \field{sortinit}{N}
+      \field{sortinithash}{a52ecf374d1aa02cdea5f29be4dad56c}
+      \field{labeltitle}{{Vocabulario de la Lengua Tagala}}
+      \field{title}{{Vocabulario de la Lengua Tagala}}
+      \field{year}{1860}
+    \endentry
+    \entry{Ocampo2001}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=9f266a3296372d58a44853765ca89bf1}{Ocampo}{O\bibinitperiod}{Ambeth}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=9f266a3296372d58a44853765ca89bf1}{Ocampo}{O\bibinitperiod}{Ambeth}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {Anvil Publishing}%
+      }
+      \strng{namehash}{9f266a3296372d58a44853765ca89bf1}
+      \strng{fullhash}{9f266a3296372d58a44853765ca89bf1}
+      \field{sortinit}{O}
+      \field{sortinithash}{59512cfd31be1dcef4def024230bdc1d}
+      \field{labeltitle}{{Bones of Contention: The Bonifacio Lectures}}
+      \field{title}{{Bones of Contention: The Bonifacio Lectures}}
+      \field{year}{2001}
+    \endentry
+    \entry{Oliphant1860}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=49a7a371620c988462acbff73bc10719}{Oliphant}{O\bibinitperiod}{Laurence}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=49a7a371620c988462acbff73bc10719}{Oliphant}{O\bibinitperiod}{Laurence}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{2}{%
+        {Edinburgh}%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {William Blackwood \protect{and} Sons}%
+      }
+      \strng{namehash}{49a7a371620c988462acbff73bc10719}
+      \strng{fullhash}{49a7a371620c988462acbff73bc10719}
+      \field{sortinit}{O}
+      \field{sortinithash}{59512cfd31be1dcef4def024230bdc1d}
+      \field{labeltitle}{{Narrative of the Earl of Elgin's Mission to {China} and {Japan} in the Years 1857, '58, '59}}
+      \field{edition}{Second}
+      \field{title}{{Narrative of the Earl of Elgin's Mission to {China} and {Japan} in the Years 1857, '58, '59}}
+      \field{volume}{1}
+      \field{year}{1860}
+    \endentry
+    \entry{Owen1984}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=582fa56007400019f26014ef4510fc40}{Owen}{O\bibinitperiod}{Norman\bibnamedelima G}{N\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=582fa56007400019f26014ef4510fc40}{Owen}{O\bibinitperiod}{Norman\bibnamedelima G}{N\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Ateneo de Manila University Press}%
+      }
+      \strng{namehash}{582fa56007400019f26014ef4510fc40}
+      \strng{fullhash}{582fa56007400019f26014ef4510fc40}
+      \field{sortinit}{O}
+      \field{sortinithash}{59512cfd31be1dcef4def024230bdc1d}
+      \field{labeltitle}{{Prosperity without Progress: Manila Hemp and Material Life in the Colonial Philippines}}
+      \field{title}{{Prosperity without Progress: Manila Hemp and Material Life in the Colonial Philippines}}
+      \field{year}{1984}
+    \endentry
+    \entry{Paterno1910}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=d3cf53d8af6132c864043284f43e36de}{Paterno}{P\bibinitperiod}{Pedro\bibnamedelima A.}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=d3cf53d8af6132c864043284f43e36de}{Paterno}{P\bibinitperiod}{Pedro\bibnamedelima A.}{P\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {Imprenta \enquote{La República}}%
+      }
+      \strng{namehash}{d3cf53d8af6132c864043284f43e36de}
+      \strng{fullhash}{d3cf53d8af6132c864043284f43e36de}
+      \field{sortinit}{P}
+      \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
+      \field{labeltitle}{{El Pacto de Biyak-na-Bato}}
+      \field{title}{{El Pacto de Biyak-na-Bato}}
+      \field{year}{1910}
+    \endentry
+    \entry{Ponce1932}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=13fe7b6cbfe5d29a202c0d1a0bb68c47}{Ponce}{P\bibinitperiod}{Mariano}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=13fe7b6cbfe5d29a202c0d1a0bb68c47}{Ponce}{P\bibinitperiod}{Mariano}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {Bureau of Printing}%
+      }
+      \strng{namehash}{13fe7b6cbfe5d29a202c0d1a0bb68c47}
+      \strng{fullhash}{13fe7b6cbfe5d29a202c0d1a0bb68c47}
+      \field{sortinit}{P}
+      \field{sortinithash}{b8af9282ac256b81613dc9012a0ac921}
+      \field{labeltitle}{{Cartas Sobre La Revolución}}
+      \field{title}{{Cartas Sobre La Revolución}}
+      \field{year}{1932}
+    \endentry
+    \entry{Quinn2001}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=bc9a3aff82e2ef9708642811aeb3b81c}{Quinn}{Q\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=bc9a3aff82e2ef9708642811aeb3b81c}{Quinn}{Q\bibinitperiod}{George}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Sydney}%
+      }
+      \list{publisher}{1}{%
+        {Allen \& Unwin}%
+      }
+      \strng{namehash}{bc9a3aff82e2ef9708642811aeb3b81c}
+      \strng{fullhash}{bc9a3aff82e2ef9708642811aeb3b81c}
+      \field{sortinit}{Q}
+      \field{sortinithash}{829524f3d072dc7a1e879f365f969857}
+      \field{labeltitle}{{The Learner's Dictionary of Today's {Indonesia}n}}
+      \field{title}{{The Learner's Dictionary of Today's {Indonesia}n}}
+      \field{year}{2001}
+    \endentry
+    \entry{Rafael2005}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=ae731609c87b042e949eacb25f43b59e}{Rafael}{R\bibinitperiod}{Vicente\bibnamedelima L.}{V\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=ae731609c87b042e949eacb25f43b59e}{Rafael}{R\bibinitperiod}{Vicente\bibnamedelima L.}{V\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{2}{%
+        {Durham}%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Duke University Press}%
+      }
+      \strng{namehash}{ae731609c87b042e949eacb25f43b59e}
+      \strng{fullhash}{ae731609c87b042e949eacb25f43b59e}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{{The Promise of the Foreign: Nationalism and the Technics of Translation in the Spanish Philippines}}
+      \field{title}{{The Promise of the Foreign: Nationalism and the Technics of Translation in the Spanish Philippines}}
+      \field{year}{2005}
+    \endentry
+    \entry{RamosyDuarte1898}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=639318be7536d4f1269f77f422291c97}{{Ramos\bibnamedelimb y\bibnamedelimb Duarte}}{R\bibinitperiod}{Felix}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=639318be7536d4f1269f77f422291c97}{{Ramos\bibnamedelimb y\bibnamedelimb Duarte}}{R\bibinitperiod}{Felix}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Mejico}%
+      }
+      \strng{namehash}{639318be7536d4f1269f77f422291c97}
+      \strng{fullhash}{639318be7536d4f1269f77f422291c97}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{{Diccionario de mejicanismos}}
+      \field{title}{{Diccionario de mejicanismos}}
+      \field{year}{1898}
+    \endentry
+    \entry{Reid1994}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5222557a991effa341bf345c5e4251ff}{Reid}{R\bibinitperiod}{Lawrence\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5222557a991effa341bf345c5e4251ff}{Reid}{R\bibinitperiod}{Lawrence\bibnamedelima A}{L\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5222557a991effa341bf345c5e4251ff}
+      \strng{fullhash}{5222557a991effa341bf345c5e4251ff}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{{Possible Non-Austronesian Lexical Elements in Philippine Negrito Languages}}
+      \field{isbn}{0029811500298115}
+      \field{issn}{0029-8115, 0029-8115}
+      \field{journaltitle}{Oceanic Linguistics}
+      \field{number}{1}
+      \field{title}{{Possible Non-Austronesian Lexical Elements in Philippine Negrito Languages}}
+      \field{volume}{33}
+      \field{year}{1994}
+      \field{pages}{37\bibrangedash 72}
+    \endentry
+    \entry{ReportWar1908}{book}{}
+      \list{location}{1}{%
+        {Washington}%
+      }
+      \list{publisher}{1}{%
+        {Government Printing Office}%
+      }
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{{Report of the Philippine Commission to the Secretary of War, 1908, in two parts}}
+      \field{title}{{Report of the Philippine Commission to the Secretary of War, 1908, in two parts}}
+      \field{volume}{1}
+      \field{year}{1909}
+    \endentry
+    \entry{Reyes2006}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=5528c7a6ac21c14818c573a5655e23a8}{Reyes}{R\bibinitperiod}{Portia\bibnamedelima L.}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5528c7a6ac21c14818c573a5655e23a8}{Reyes}{R\bibinitperiod}{Portia\bibnamedelima L.}{P\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{5528c7a6ac21c14818c573a5655e23a8}
+      \strng{fullhash}{5528c7a6ac21c14818c573a5655e23a8}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{{A \enquote*{treasonous} history of Filipino historiography: the life and times of Pedro Paterno, 1858-1911}}
+      \field{journaltitle}{South East Asia Research}
+      \field{number}{1}
+      \field{title}{{A \enquote*{treasonous} history of Filipino historiography: the life and times of Pedro Paterno, 1858-1911}}
+      \field{volume}{14}
+      \field{year}{2006}
+      \field{pages}{87\bibrangedash 122}
+      \verb{doi}
+      \verb 10.5367/000000006776563686
+      \endverb
+    \endentry
+    \entry{Richardson2005}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=7d752e44b80a4cfba4e10842daf5bd37}{Richardson}{R\bibinitperiod}{Jim}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=7d752e44b80a4cfba4e10842daf5bd37}{Richardson}{R\bibinitperiod}{Jim}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{7d752e44b80a4cfba4e10842daf5bd37}
+      \strng{fullhash}{7d752e44b80a4cfba4e10842daf5bd37}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{{Notes on Kalayaan, the Katipunan paper}}
+      \field{month}{11}
+      \field{title}{{Notes on Kalayaan, the Katipunan paper}}
+      \field{urlday}{08}
+      \field{urlmonth}{05}
+      \field{urlyear}{2009}
+      \field{year}{2005}
+      \verb{url}
+      \verb http://kasaysayan-kkk.info/studies.kalayaan.htm
+      \endverb
+    \endentry
+    \entry{Rizal1996}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=acb14733c180bd14e80097f339f63ae1}{Rizal}{R\bibinitperiod}{Jose}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=acb14733c180bd14e80097f339f63ae1}{Rizal}{R\bibinitperiod}{Jose}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {National Historical Institute}%
+      }
+      \strng{namehash}{acb14733c180bd14e80097f339f63ae1}
+      \strng{fullhash}{acb14733c180bd14e80097f339f63ae1}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{{El Filibusterismo}}
+      \field{title}{{El Filibusterismo}}
+      \field{year}{1996}
+    \endentry
+    \entry{Rizal1931}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=acb14733c180bd14e80097f339f63ae1}{Rizal}{R\bibinitperiod}{Jose}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=acb14733c180bd14e80097f339f63ae1}{Rizal}{R\bibinitperiod}{Jose}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {Bureau of Printing}%
+      }
+      \strng{namehash}{acb14733c180bd14e80097f339f63ae1}
+      \strng{fullhash}{acb14733c180bd14e80097f339f63ae1}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{{Epistolaria Rizalino, Tomo Segundo, 1887-1890}}
+      \field{title}{{Epistolaria Rizalino, Tomo Segundo, 1887-1890}}
+      \field{year}{1931}
+    \endentry
+    \entry{Rizal2007}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=a09d451e3f87c2a79dd21a36b79d7e2c}{Rizal}{R\bibinitperiod}{José}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a09d451e3f87c2a79dd21a36b79d7e2c}{Rizal}{R\bibinitperiod}{José}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{translator}{1}{}{%
+        {{hash=916e8ae2c1ac1ff44480de916318b113}{Lacson-Locsin}{L\bibinithyphendelim L\bibinitperiod}{Soledad}{S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Honolulu}%
+      }
+      \list{publisher}{1}{%
+        {University of Hawai'i Press}%
+      }
+      \strng{namehash}{a09d451e3f87c2a79dd21a36b79d7e2c}
+      \strng{fullhash}{a09d451e3f87c2a79dd21a36b79d7e2c}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{{El Filibusterismo}}
+      \field{title}{{El Filibusterismo}}
+      \field{year}{2007}
+    \endentry
+    \entry{Ronquillo1996}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=267689cea17998ceac27c9f1b5c583b6}{Ronquillo}{R\bibinitperiod}{Carlos}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=267689cea17998ceac27c9f1b5c583b6}{Ronquillo}{R\bibinitperiod}{Carlos}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5e37a0e9703fadd90f76339ac26c9899}{Medina}{M\bibinitperiod}{Isagani}{I\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {University of the Philippines Press}%
+      }
+      \strng{namehash}{267689cea17998ceac27c9f1b5c583b6}
+      \strng{fullhash}{267689cea17998ceac27c9f1b5c583b6}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{{Ilang Talata Tungkol sa Paghihimagsik nang 1896-97}}
+      \field{title}{{Ilang Talata Tungkol sa Paghihimagsik nang 1896-97}}
+      \field{year}{1996}
+    \endentry
+    \entry{Ross1995}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=259eae431ab9bc49ff1e3e458847666e}{Ross}{R\bibinitperiod}{Malcolm}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=259eae431ab9bc49ff1e3e458847666e}{Ross}{R\bibinitperiod}{Malcolm}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=d3c2483a595e9636467ad125739c5919}{Tyron}{T\bibinitperiod}{Darrel\bibnamedelima T.}{D\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Walter de Gruyter}%
+      }
+      \strng{namehash}{259eae431ab9bc49ff1e3e458847666e}
+      \strng{fullhash}{259eae431ab9bc49ff1e3e458847666e}
+      \field{sortinit}{R}
+      \field{sortinithash}{ff5a3533ecf9d5a03ff60b1e1389b63d}
+      \field{labeltitle}{{Some Current Issues in Austronesian Linguistics}}
+      \field{booktitle}{Comparative Austronesian Dictionary: An Introduction to Austronesian Studies, Part 1: Fascicle 1, Trends in Linguistics: Documentation 10}
+      \field{title}{{Some Current Issues in Austronesian Linguistics}}
+      \field{year}{1995}
+    \endentry
+    \entry{Salazar1994}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=b5595a5186bd57bced5a6ff071ef4f23}{Salazar}{S\bibinitperiod}{Zeus\bibnamedelima A.}{Z\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b5595a5186bd57bced5a6ff071ef4f23}{Salazar}{S\bibinitperiod}{Zeus\bibnamedelima A.}{Z\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Miranda Bookstore}%
+      }
+      \strng{namehash}{b5595a5186bd57bced5a6ff071ef4f23}
+      \strng{fullhash}{b5595a5186bd57bced5a6ff071ef4f23}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{{Agosto 29-30, 1896: Ang Pagsalakay ni Bonifacio sa {May}nila}}
+      \field{title}{{Agosto 29-30, 1896: Ang Pagsalakay ni Bonifacio sa {May}nila}}
+      \field{year}{1994}
+    \endentry
+    \entry{Scott1990}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=8e3270fcd4f65f1837b0991393a7957b}{Scott}{S\bibinitperiod}{James\bibnamedelima C}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=8e3270fcd4f65f1837b0991393a7957b}{Scott}{S\bibinitperiod}{James\bibnamedelima C}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{2}{%
+        {New Haven}%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Yale University Press}%
+      }
+      \strng{namehash}{8e3270fcd4f65f1837b0991393a7957b}
+      \strng{fullhash}{8e3270fcd4f65f1837b0991393a7957b}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{{Domination and the Arts of Resistance: Hidden Transcripts}}
+      \field{title}{{Domination and the Arts of Resistance: Hidden Transcripts}}
+      \field{year}{1990}
+    \endentry
+    \entry{Stevens1898}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=a37487f1eecdbeef8c76cb17ec4b2bde}{Stevens}{S\bibinitperiod}{Joseph\bibnamedelima Earle}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=a37487f1eecdbeef8c76cb17ec4b2bde}{Stevens}{S\bibinitperiod}{Joseph\bibnamedelima Earle}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Sampson Low, Marston, \& Co.}%
+      }
+      \strng{namehash}{a37487f1eecdbeef8c76cb17ec4b2bde}
+      \strng{fullhash}{a37487f1eecdbeef8c76cb17ec4b2bde}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{{Yesterdays in the Philippines}}
+      \field{title}{{Yesterdays in the Philippines}}
+      \field{year}{1898}
+    \endentry
+    \entry{Sullivan1991}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=1b38b6b34b7851e27214e5143b62b010}{Sullivan}{S\bibinitperiod}{Rodney\bibnamedelima J.}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1b38b6b34b7851e27214e5143b62b010}{Sullivan}{S\bibinitperiod}{Rodney\bibnamedelima J.}{R\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Ann Arbor}%
+      }
+      \list{publisher}{1}{%
+        {Center for South \protect{and} Southeast Asian Studies}%
+      }
+      \strng{namehash}{1b38b6b34b7851e27214e5143b62b010}
+      \strng{fullhash}{1b38b6b34b7851e27214e5143b62b010}
+      \field{sortinit}{S}
+      \field{sortinithash}{4125bb4c3a0eb3eaee3ea6da32eb70c8}
+      \field{labeltitle}{{Exemplar of {America}nism: the Philippine career of Dean C. Worcester}}
+      \field{title}{{Exemplar of {America}nism: the Philippine career of Dean C. Worcester}}
+      \field{year}{1991}
+    \endentry
+    \entry{Tangherlini1990}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=1fd3bf24a84f554029c4ffe982df34fb}{Tangherlini}{T\bibinitperiod}{Timothy\bibnamedelima R.}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=1fd3bf24a84f554029c4ffe982df34fb}{Tangherlini}{T\bibinitperiod}{Timothy\bibnamedelima R.}{T\bibinitperiod\bibinitdelim R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{1fd3bf24a84f554029c4ffe982df34fb}
+      \strng{fullhash}{1fd3bf24a84f554029c4ffe982df34fb}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{{\enquote{It Happened Not Too Far from Here\ldots}: A Survey of Legend Theory and Characterization}}
+      \field{journaltitle}{Western Folklore}
+      \field{number}{4}
+      \field{title}{{\enquote{It Happened Not Too Far from Here\ldots}: A Survey of Legend Theory and Characterization}}
+      \field{volume}{49}
+      \field{year}{1990}
+      \field{pages}{371\bibrangedash 390}
+    \endentry
+    \entry{Tiongson1975}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=4764ffd1932ab8f7a96576bae7af07ec}{Tiongson}{T\bibinitperiod}{Nicanor\bibnamedelima G.}{N\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=4764ffd1932ab8f7a96576bae7af07ec}{Tiongson}{T\bibinitperiod}{Nicanor\bibnamedelima G.}{N\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Quezon City}%
+      }
+      \list{publisher}{1}{%
+        {Ateneo de Manila University Press}%
+      }
+      \strng{namehash}{4764ffd1932ab8f7a96576bae7af07ec}
+      \strng{fullhash}{4764ffd1932ab8f7a96576bae7af07ec}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{{Kasaysayan at Estetika ng Sinakulo at Ibang Dulang Panrelihiyon Sa Malolos}}
+      \field{title}{{Kasaysayan at Estetika ng Sinakulo at Ibang Dulang Panrelihiyon Sa Malolos}}
+      \field{year}{1975}
+    \endentry
+    \entry{Trimillos1992}{incollection}{}
+      \name{labelname}{1}{}{%
+        {{hash=78ddec78dca614d0fd57a71bd4f8c54e}{Trimillos}{T\bibinitperiod}{Ricardo\bibnamedelima D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=78ddec78dca614d0fd57a71bd4f8c54e}{Trimillos}{T\bibinitperiod}{Ricardo\bibnamedelima D.}{R\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3e698253167678eca7f2b289db28f55e}{Foley}{F\bibinitperiod}{Kathy}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Berkeley}%
+      }
+      \list{publisher}{1}{%
+        {Center for South \protect{and} Southeast Asian Studies}%
+      }
+      \strng{namehash}{78ddec78dca614d0fd57a71bd4f8c54e}
+      \strng{fullhash}{78ddec78dca614d0fd57a71bd4f8c54e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9378dd666f3c24d81538df53aa99e23d}
+      \field{labeltitle}{{Pasyon: Lenten Observance of the {Philippines} as Southeast {Asia}n Theater}}
+      \field{booktitle}{Essays on Southeast Asian Performing Arts: Local Manifestations and Cross-Cultural Implications}
+      \field{title}{{Pasyon: Lenten Observance of the {Philippines} as Southeast {Asia}n Theater}}
+      \field{year}{1992}
+    \endentry
+    \entry{Ugaldezubiaur1880}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=0c2516325a6e3b6ed95cdbe1fd432886}{Ugaldezubiaur}{U\bibinitperiod}{D.\bibnamedelimi Santiago}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=0c2516325a6e3b6ed95cdbe1fd432886}{Ugaldezubiaur}{U\bibinitperiod}{D.\bibnamedelimi Santiago}{D\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Madrid}%
+      }
+      \list{publisher}{1}{%
+        {Imprenta de Ramon Moreno Y Ricardo Rojas}%
+      }
+      \strng{namehash}{0c2516325a6e3b6ed95cdbe1fd432886}
+      \strng{fullhash}{0c2516325a6e3b6ed95cdbe1fd432886}
+      \field{sortinit}{U}
+      \field{sortinithash}{311bb924dfb84a64dcdd01c5b07d40b0}
+      \field{labeltitle}{{Comision de la Flora y Estadistica Florestal, Memoria Descriptiva de la Provincia de Manila}}
+      \field{title}{{Comision de la Flora y Estadistica Florestal, Memoria Descriptiva de la Provincia de Manila}}
+      \field{year}{1880}
+    \endentry
+    \entry{Venida1996}{article}{}
+      \name{labelname}{1}{}{%
+        {{hash=b935dbbb831ccf2eadcf62f72c67aa23}{Venida}{V\bibinitperiod}{Victor\bibnamedelima S.}{V\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=b935dbbb831ccf2eadcf62f72c67aa23}{Venida}{V\bibinitperiod}{Victor\bibnamedelima S.}{V\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{b935dbbb831ccf2eadcf62f72c67aa23}
+      \strng{fullhash}{b935dbbb831ccf2eadcf62f72c67aa23}
+      \field{sortinit}{V}
+      \field{sortinithash}{63562d1af2cd68fb37e2e14e0c6d5c96}
+      \field{labeltitle}{{The Santo and the Rural Aristocracy}}
+      \field{journaltitle}{Philippine Studies}
+      \field{number}{4}
+      \field{title}{{The Santo and the Rural Aristocracy}}
+      \field{volume}{44}
+      \field{year}{1996}
+      \field{pages}{500\bibrangedash 13}
+    \endentry
+    \entry{Zaide1939}{book}{}
+      \name{labelname}{1}{}{%
+        {{hash=5cd945c81548b223e7208d4d4324c496}{Zaide}{Z\bibinitperiod}{Gregorio\bibnamedelima F.}{G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{author}{1}{}{%
+        {{hash=5cd945c81548b223e7208d4d4324c496}{Zaide}{Z\bibinitperiod}{Gregorio\bibnamedelima F.}{G\bibinitperiod\bibinitdelim F\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Manila}%
+      }
+      \list{publisher}{1}{%
+        {Loyal Press}%
+      }
+      \strng{namehash}{5cd945c81548b223e7208d4d4324c496}
+      \strng{fullhash}{5cd945c81548b223e7208d4d4324c496}
+      \field{sortinit}{Z}
+      \field{sortinithash}{9cca09897f0dfd9ed260e065f6d82cd6}
+      \field{labeltitle}{{History of the Katipunan}}
+      \field{title}{{History of the Katipunan}}
+      \field{year}{1939}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
